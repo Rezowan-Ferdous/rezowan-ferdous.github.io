@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/rezowan_img.png"
+  avatar           : "rezowan_img.png"
   name             : "Rezowan H F Shuvoe"
   pronouns         : " he / him" # example: "she/her"  
   bio              : "Research Assistant, PhD Candidate"
