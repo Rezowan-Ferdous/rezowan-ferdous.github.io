@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Rezowan Shuvo",
+    "email": "shuvorezowan@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "PhD candidate | Computer vision | Video understanding | Deep learning.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=gECbOWsAAAAJ&hl=en&authuser=1&oi=ao"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-4186-2817"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Rezowan-Ferdous",
+        "url": "https://github.com/Rezowan-Ferdous"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "The Robert Gordon University",
+      "area": "Ph.D in Computer Version ",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Bangladesh University of Professionals",
+      "area": "M.S. in Information Communication Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Bangladesh University of Professionals",
+      "area": "B.S. in Information Communication Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
@@ -66,16 +66,16 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "MSBATN: Multi-Stage Boundary-Aware Transformer Network for action segmentation in untrimmed surgical videos",
+      "publisher": "Computer Vision and Image Understanding",
+      "releaseDate": "2025-10-01",
+      "website": "https://www.sciencedirect.com/science/article/abs/pii/S1077314225002449?via%3Dihub",
+      "summary": "This paper introduces a novel unified loss function that optimises action classification and boundary detection as interconnected tasks."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name": "Deep Learning Models for the Diagnosis and Screening of COVID-19: A Systematic Review",
+      "publisher": "SN Computer Science",
+      "releaseDate": "2022-07-25",
       "website": "https://academicpages.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
@@ -83,13 +83,13 @@
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "website": "https://doi.org/10.1007/978-981-33-4673-4_54",
+      "summary": "This paper is about the critical analysis of Deep Learning approaches in COVID"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
+      "name": "Performance Analysis of Different Loss Function in Face Detection Architectures",
+      "publisher": "Advances in Intelligent Systems and Computing",
+      "releaseDate": "2020-12-17",
       "website": "https://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
     }
